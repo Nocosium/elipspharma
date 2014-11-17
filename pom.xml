@@ -13,15 +13,14 @@
     <artifactId>elips-principal</artifactId>
     <version>1.34-SNAPSHOT</version>
 
-    <issueManagement>
-        <system>JIRA</system>
-        <url>http://intranet.netapsys.fr/jira/</url>
-    </issueManagement>
-    <scm>
-        <connection>
-            scm:svn:https://atlantique-svn.netapsys.fr/svn/pharma/trunk
-        </connection>
+    <scm> <!-- GitHub -->
+        <connection>scm:git:git@github.com:Nocosium/elipspharma.git</connection>
     </scm>
+
+    <issueManagement> <!-- GitHub Issues -->
+        <url>https://github.com/Nocosium/elipspharma/issues/</url>
+        <system>GitHub</system>
+    </issueManagement>
 
     <packaging>pom</packaging>
 
