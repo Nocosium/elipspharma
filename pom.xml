@@ -875,15 +875,4 @@
         <maven>3.0.0</maven>
     </prerequisites>
 
-    <distributionManagement>
-        <repository>
-            <id>netapsys</id>
-            <name>Netapsys Repository</name>
-            <url>http://atlantique.netapsys.fr/artifactory2/livraisons</url>
-        </repository>
-        <site>
-            <id>deploy site</id>
-            <url>file:///var/www/mavensite/eclipse</url>
-        </site>
-    </distributionManagement>
 </project>
