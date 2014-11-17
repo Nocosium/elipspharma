@@ -109,7 +109,7 @@
         <findbugs-maven-plugin-version>2.3.1</findbugs-maven-plugin-version>
         <javancss-maven-plugin-version>2.0</javancss-maven-plugin-version>
         <jdepend-maven-plugin-version>2.0-beta-2</jdepend-maven-plugin-version>
-        <maven-compiler-plugin-version>2.3.2</maven-compiler-plugin-version>
+        <maven-compiler-plugin-version>3.2</maven-compiler-plugin-version>
         <maven-checkstyle-plugin-version>2.5-NETAP</maven-checkstyle-plugin-version>
         <maven-eclipse-plugin-version>2.9</maven-eclipse-plugin-version>
         <maven-jxr-plugin-version>2.1</maven-jxr-plugin-version>
