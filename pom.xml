@@ -90,8 +90,8 @@
         <spring-security-version>3.1.3.RELEASE</spring-security-version>
         <spring-security-facelets-taglib-version>0.5</spring-security-facelets-taglib-version>
         <spring-webflow-version>2.2.1.RELEASE</spring-webflow-version>
-        <spring-binding-version>2.2.1.PATCHED</spring-binding-version>
-        <spring-faces-version>2.2.1.PATCHED</spring-faces-version>
+        <spring-binding-version>2.2.1.RELEASE</spring-binding-version>
+        <spring-faces-version>2.2.1.RELEASE</spring-faces-version>
 
         <stax-api-version>1.0-2</stax-api-version>
         <validation-api-version>1.0.0.GA</validation-api-version>
