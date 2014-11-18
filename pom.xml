@@ -832,6 +832,8 @@
                         <optimize>false</optimize>
                         <showWarnings>true</showWarnings>
                         <showDeprecation>true</showDeprecation>
+                        <compilerArgument>-Xlint:all</compilerArgument>
+                        <failOnError>true</failOnError>
                     </configuration>
                 </plugin>
                 <plugin>
