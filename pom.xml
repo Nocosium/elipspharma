@@ -77,8 +77,8 @@
         <hibernate-entitymanager-version>3.5.1-Final</hibernate-entitymanager-version>
         <hibernate-validator-version>4.3.1.Final</hibernate-validator-version>
 
-        <!-- PostgresSql -->
-        <postgresql-version>9.1-901-1.jdbc4</postgresql-version>
+        <!-- PostgresSql 8.3-606.jdbc4 -->
+        <postgresql-version>9.3-1102-jdbc4</postgresql-version>
 
         <log4j-version>1.2.17</log4j-version>
         <servlet-api-version>2.5</servlet-api-version>
@@ -691,7 +691,7 @@
                 <version>${jsp-api-version}</version>
             </dependency>
             <dependency>
-                <groupId>postgresql</groupId>
+                <groupId>org.postgresql</groupId>
                 <artifactId>postgresql</artifactId>
                 <version>${postgresql-version}</version>
             </dependency>
