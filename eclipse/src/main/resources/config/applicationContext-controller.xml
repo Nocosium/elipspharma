@@ -40,9 +40,9 @@
 	<!-- =================================== -->
         <bean id="applicationController" class="fr.pharma.eclipse.controller.ApplicationController">
             <property name="environnement" value="${environnement}"/>
-            <property name="reprisePassif" value="${module_active_reprisepassif}"/>
+            <property name="reprisePassif" value="${module.active.reprisepassif}"/>
             <property name="erreurMailto" value="${erreur.mailto}"/>
-            <property name="logo" value="${webapp_logo_chu}"/>
+            <property name="logo" value="${webapp.logo.chu}"/>
         </bean>
 	
 	
