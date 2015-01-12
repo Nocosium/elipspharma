@@ -88,7 +88,7 @@
         <spring-version>3.2.12.RELEASE</spring-version>
         <spring-security-version>3.1.7.RELEASE</spring-security-version>
         <spring-security-facelets-taglib-version>0.5</spring-security-facelets-taglib-version>
-        <spring-webflow-version>2.2.1.RELEASE</spring-webflow-version>
+        <spring-webflow-version>2.4.1.RELEASE</spring-webflow-version>
         <spring-binding-version>2.2.1.RELEASE</spring-binding-version>
         <spring-faces-version>2.2.1.RELEASE</spring-faces-version>
 
@@ -141,7 +141,7 @@
         <primefaces-version>2.2.1</primefaces-version>
 
         <!-- My faces -->
-        <myfaces.tomahawk-version>1.1.10</myfaces.tomahawk-version>
+        <myfaces.tomahawk-version>1.1.14</myfaces.tomahawk-version>
 
         <!-- Jboss EL pour JSF -->
         <jboss-el-version>2.0.2.CR1</jboss-el-version>
