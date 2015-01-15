@@ -135,7 +135,7 @@
         <poi-version>3.2-FINAL</poi-version>
 
         <!-- JSF / Facelets -->
-        <jsf-version>2.1.7</jsf-version>
+        <jsf-version>2.1.2</jsf-version>
         <facelet-version>1.1.14</facelet-version>
 
         <!-- PrimeFaces -->
